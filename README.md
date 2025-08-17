@@ -1,2 +1,0 @@
-# AslGrab
-Privacy
