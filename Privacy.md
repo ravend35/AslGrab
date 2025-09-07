@@ -1,4 +1,4 @@
-Thank you for using AslGrab – a Chrome extension designed to assist dropshippers in gathering product information from Amazon efficiently.
+Thank you for using AslGrab/AslWipe/AslPass – a Chrome extension designed to assist dropshippers in gathering product information from Amazon efficiently.
 
 1. Information Collection
 
